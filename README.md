@@ -3,6 +3,17 @@
 Focused agent skills for evidence-based engineering: establish what happened,
 choose a scoped response, and verify the result without overstating it.
 
+## Welcome
+
+Built with care, shared to be useful. Questions, corrections, and thoughtful
+contributions are welcome. Beginners are welcome too. You do not need a polished
+solution to describe a problem or ask for clarification.
+
+Be respectful, support technical claims with evidence, and keep private information
+private. Start with an issue or a focused pull request; see our
+[contribution guide](CONTRIBUTING.md) and [community conduct](CODE_OF_CONDUCT.md).
+Maintainer time is limited, so replies, fixes, and acceptance are not guaranteed.
+
 ## Available skills
 
 | Skill | Use it for |

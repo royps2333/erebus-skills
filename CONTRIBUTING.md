@@ -1,5 +1,10 @@
 # Contributing
 
+Thank you for helping make these skills useful. Questions, documentation fixes,
+and careful reports of what did or did not work are valuable contributions.
+Beginners are welcome; explain what you tried and where you got stuck.
+Please follow our [community conduct](CODE_OF_CONDUCT.md).
+
 Open an issue describing the use case, or a focused pull request with the problem,
 change and verification. A skill should supply non-obvious reusable guidance and
 work independently of the author's environment.
