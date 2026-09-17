@@ -62,3 +62,5 @@ separate skill archives. A release does not install or update anything for users
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for scope and verification expectations.
 Licensed under [MIT](LICENSE). Maintained by royps2333 with AI-assisted development.
+
+Security reporting and release verification: [SECURITY.md](SECURITY.md).
