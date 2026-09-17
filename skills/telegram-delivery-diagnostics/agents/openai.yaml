@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telegram Delivery Diagnostics"
+  short_description: "Diagnose missing replies, duplicates, and uncertain sends"
+  default_prompt: "Use $telegram-delivery-diagnostics to investigate this Telegram delivery report, establish its current status, and recommend only evidence-supported action."
